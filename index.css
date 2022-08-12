@@ -1,0 +1,57 @@
+html {
+    font-family: sans-serif;
+}
+
+/* body {
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+} */
+/* h1 {
+    font-size: 30px;
+    font-family: 'poppins';
+    font-weight: 600;
+    color:blue;
+}
+input {
+    box-shadow: inset 2px 2px 5px #babecc, inset -5px -5px 10px #fff;
+    outline: 0;
+} */
+body {
+    width: 500px;
+    margin: 0 auto;
+}
+.container {
+    width: 400px;
+    background-color:aquamarine;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+    margin-top: 100px;
+}
+h1 {
+    color:blue;
+    margin-top: 5px;
+}
+p {
+    color: darkblue;
+}
+label {
+    color: currentColor;
+}
+input#guessField {
+    border-radius: 10px;
+    text-align: center;
+    width: 75px;
+}
+input#submitguess {
+    background-color: greenyellow;
+    border-radius: 15px;
+}
+ .again{
+    background-color: rgb(120, 47, 255);
+    border-radius: 15px;
+    color: whitesmoke;
+ }
+ 
